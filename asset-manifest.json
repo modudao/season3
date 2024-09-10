@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca1ef954.css",
-    "main.js": "/static/js/main.e538a687.js",
-    "static/js/453.8566eefc.chunk.js": "/static/js/453.8566eefc.chunk.js",
-    "static/media/daolabnft.png": "/static/media/daolabnft.1c8051b7ceec370e98d7.png",
-    "static/media/smile.png": "/static/media/smile.f77c88a920f1273c0b68.png",
-    "static/media/logo.png": "/static/media/logo.728e80a1dbc5f2726143.png",
-    "index.html": "/index.html",
-    "main.ca1ef954.css.map": "/static/css/main.ca1ef954.css.map",
-    "main.e538a687.js.map": "/static/js/main.e538a687.js.map",
-    "453.8566eefc.chunk.js.map": "/static/js/453.8566eefc.chunk.js.map"
+    "main.css": "/season3/static/css/main.ca1ef954.css",
+    "main.js": "/season3/static/js/main.af434bc3.js",
+    "static/js/453.8566eefc.chunk.js": "/season3/static/js/453.8566eefc.chunk.js",
+    "static/media/daolabnft.png": "/season3/static/media/daolabnft.1c8051b7ceec370e98d7.png",
+    "static/media/smile.png": "/season3/static/media/smile.f77c88a920f1273c0b68.png",
+    "static/media/logo.png": "/season3/static/media/logo.728e80a1dbc5f2726143.png",
+    "index.html": "/season3/index.html",
+    "main.ca1ef954.css.map": "/season3/static/css/main.ca1ef954.css.map",
+    "main.af434bc3.js.map": "/season3/static/js/main.af434bc3.js.map",
+    "453.8566eefc.chunk.js.map": "/season3/static/js/453.8566eefc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca1ef954.css",
-    "static/js/main.e538a687.js"
+    "static/js/main.af434bc3.js"
   ]
 }
