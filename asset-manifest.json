@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/season3/static/css/main.50660550.css",
-    "main.js": "/season3/static/js/main.f6364ac8.js",
+    "main.css": "/season3/static/css/main.38429ea8.css",
+    "main.js": "/season3/static/js/main.8ad2e8da.js",
     "static/js/453.8566eefc.chunk.js": "/season3/static/js/453.8566eefc.chunk.js",
     "static/media/daolabnft.png": "/season3/static/media/daolabnft.1c8051b7ceec370e98d7.png",
     "static/media/smile.png": "/season3/static/media/smile.f77c88a920f1273c0b68.png",
     "static/media/logo.png": "/season3/static/media/logo.728e80a1dbc5f2726143.png",
     "index.html": "/season3/index.html",
-    "main.50660550.css.map": "/season3/static/css/main.50660550.css.map",
-    "main.f6364ac8.js.map": "/season3/static/js/main.f6364ac8.js.map",
+    "main.38429ea8.css.map": "/season3/static/css/main.38429ea8.css.map",
+    "main.8ad2e8da.js.map": "/season3/static/js/main.8ad2e8da.js.map",
     "453.8566eefc.chunk.js.map": "/season3/static/js/453.8566eefc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50660550.css",
-    "static/js/main.f6364ac8.js"
+    "static/css/main.38429ea8.css",
+    "static/js/main.8ad2e8da.js"
   ]
 }
